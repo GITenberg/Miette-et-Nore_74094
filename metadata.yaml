@@ -1,5 +1,8 @@
 _repo: Miette-et-Nore_74094
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74094-h/images/cover.jpg
 creator:
   author:
     agent_name: Aicard, Jean
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Aicard
     - https://fr.wikipedia.org/wiki/Jean_Aicard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74094#Miette-et-Nore
 edition_note: Troisième édition corrigée augmentée d'une préface et d'un épilogue
 gutenberg_issued: '2024-07-22'
 gutenberg_type: Text
